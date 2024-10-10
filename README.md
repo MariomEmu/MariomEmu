@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariomemu&label=Profile%20views&color=0e75b6&style=flat" alt="mariomemu" /> </p>
 
-## Hi there 👋
+## Hello 👋
 
 I am Bibi Mariom. I've completed my undergrad in Computer Science & Engineering at [AIUB](https://www.aiub.edu/)
 
