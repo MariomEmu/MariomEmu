@@ -13,11 +13,10 @@ I am Bibi Mariom. I've completed my undergrad in Computer Science & Engineering 
 
 <h3 align="left">Overview of GitHub</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariomEmu&show_icons=true" alt="GitHub stats" width="400" />
-  &nbsp; <!-- This is a simple way to add space -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomemu&show_icons=true&locale=en&layout=compact" alt="Top languages" width="300" />
-</div>
+<p align="left">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomemu&show_icons=true&locale=en&layout=compact" alt="mariomemu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariomemu&show_icons=true&locale=en" alt="mariomemu" /></p>
 
 
 ## Technology stack
