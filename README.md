@@ -22,8 +22,6 @@ I am Bibi Mariom. I've completed my undergrad in Computer Science & Engineering 
 ## Technology stack
 Languages -  `C++` `Javascript` 
 
-Backend -  `Node.js` `Express.js`
-
 Frontend - `HTML` `CSS` `Javascript`
 
 Database -  `PostgreSQL` `MongoDB`
