@@ -20,15 +20,15 @@ I am Bibi Mariom. I've completed my undergrad in Computer Science & Engineering 
 
 
 ## Technology stack
-Languages -  `C++` `Javascript` `Python` 
+Languages -  `C++` `Python` `JAVA`, 
 
-Frontend - `HTML` `CSS` `Javascript` `React.js`
+Frontend - `HTML` `CSS` `JavaScript` `React.js`
 
-Backend -  `Python` `FastAPI`
+Backend -  `Python` `FastAPI` `Django` `Spring Boot`
 
-Database -  `PostgreSQL` `MongoDB`
+Database -  `MySQL` `PostgreSQL`
 
-Tools -   `Git` `Github` `Docker` `GitHub Actions (CI/CD)`
+Tools -   `Git` `GitHub` `Docker` `GitHub Actions (CI/CD)`
 
 Productivity -  `Jira `
 
