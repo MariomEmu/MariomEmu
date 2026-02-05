@@ -11,8 +11,6 @@ I am Bibi Mariom. I've completed my undergrad in Computer Science & Engineering 
 
 > 💡 I maintain an open-minded approach to opportunities for growth & passionate about continuous learning and embracing new challenges!
 
- <h3 align="left">Overview of GitHub</h3>
-
 ## Technology stack
 Languages -  `C++` `Python` `JAVA`, 
 
