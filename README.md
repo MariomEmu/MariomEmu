@@ -13,12 +13,6 @@ I am Bibi Mariom. I've completed my undergrad in Computer Science & Engineering 
 
  <h3 align="left">Overview of GitHub</h3>
 
-## <p align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariomemu&show_icons=true&locale=en&layout=compact&cache_bust=true" alt="mariomemu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariomemu&show_icons=true&locale=en&cache_bust=true" alt="mariomemu" /></p>
-
-
 ## Technology stack
 Languages -  `C++` `Python` `JAVA`, 
 
